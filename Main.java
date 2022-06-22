@@ -4,10 +4,10 @@ package com.company;
 class Main{
     public static void main(String args[]){
         ArrayList<String> list=new ArrayList<String>();
-        list.add("Raza");
-        list.add("Ashraf");
-        list.add("Vladmir");
-        list.add("Aleksi");
+        list.add("Philemon");
+        list.add("Anaman");
+        list.add("Evans");
+        list.add("Enoch");
         Iterator itr=list.iterator();
         System.out.println("Example 1");
         while(itr.hasNext()){
